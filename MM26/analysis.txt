@@ -1,0 +1,4 @@
+/home/dxy/PycharmProjects/MM26/modal_['egemapsv2', 'swin']_dataset_NoXi_l_32_w_32_s_32_lr_0.0001_bs_32_n_eps_100_model_PairFilterNet2_loss_MSE_em_d_256_is_bid_True_n_180_is_lstm_True_n_l_2
+/home/dxy/PycharmProjects/MM26/modal_['egemapsv2', 'swin']_dataset_NoXi_l_32_w_32_s_32_lr_0.0001_bs_32_n_eps_100_model_PairFilterNet1_loss_SMSE_alpha_0.1_em_d_256_is_bid_True_n_180_is_lstm_True_n_l_2
+/home/dxy/PycharmProjects/MM26/modal_['egemapsv2', 'swin']_dataset_NoXi_l_32_w_32_s_32_grps_[['novice', 'expert']]_lr_0.0001_bs_32_n_eps_2_model_PairFilterNet1_loss_MSE_alpha_None_em_d_256_is_bid_True_n_180_is_lstm_False_n_l_2
+/home/dxy/PycharmProjects/MM26/modal_['egemapsv2']_dataset_NoXi_l_32_w_128_s_32_lr_0.0001_bs_32_n_eps_100_model_PairFilterNet1_loss_MSE_em_d_256_is_bid_True_n_180_is_lstm_True_n_l_2

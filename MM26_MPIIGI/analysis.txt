@@ -1,0 +1,1 @@
+/home/dxy/PycharmProjects/MM26_MPIIGI/modal_['egemapsv2']_dataset_MPIIGI_l_32_w_32_s_32_lr_0.0001_bs_32_n_eps_1_model_PairFilterNet4_loss_MSE_alpha_None_em_d_256_is_bid_True_n_180_is_lstm_False_n_l_2

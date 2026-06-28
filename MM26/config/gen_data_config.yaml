@@ -1,0 +1,10 @@
+modal: ["egemapsv2","openpose"] #["xlm_roberta"] #["egemapsv2", "swin"] #, "xlm_roberta"] #, "w2vbert2", "clip", "openface2", "openpose"] #modalities
+modal_dim: [88,139] # [768] #[88, 768] #, 768] #1024, 512, 714, 139] #modalities_dim
+dataset: "NoXi" #dataset
+tr_dir: ["/media/dxy/e4d05437-15dc-4450-9866-ff9fd650d89e/MultiMediateChallengDataset/NoXiDataSet/NoXi_trainval/train/"] #train dir path
+va_dir: ["/media/dxy/e4d05437-15dc-4450-9866-ff9fd650d89e/MultiMediateChallengDataset/NoXiDataSet/NoXi_trainval/val/"] # validate dir path
+te_dir: ["/media/dxy/e4d05437-15dc-4450-9866-ff9fd650d89e/MultiMediateChallengDataset/NoXiDataSet/NoXi_trainval/val/"]
+l: 32 #context len
+w: 32 #sequence len:
+s: 32 #slide step
+grps: [["novice","expert"]] #Train separately in groups

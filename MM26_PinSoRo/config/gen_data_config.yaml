@@ -1,0 +1,10 @@
+modal: ["egemapsv2","oppo"] #["xlm_roberta"] #["egemapsv2", "swin"] #, "xlm_roberta"] #, "w2vbert2", "clip", "openface2", "openpose"] #modalities
+modal_dim: [88,139] # [768] #[88, 768] #, 768] #1024, 512, 714, 139] #modalities_dim
+dataset: "PinSoRo" #dataset
+tr_dir: ["/media/dxy/e4d05437-15dc-4450-9866-ff9fd650d89e/PInSoRo/cr/train"] #train dir path
+va_dir: ["/media/dxy/e4d05437-15dc-4450-9866-ff9fd650d89e/PInSoRo/cr/val"] # validate dir path
+l: 32 #context len
+w: 32 #sequence len
+s: 32 #slide step
+grps: [["purple","yellow"]] #Train separately in groups
+task: "social" #"task" "social"

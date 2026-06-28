@@ -1,5 +1,7 @@
 # LDM-AF: Adaptive Filtering Framework with Learnable Domain Memory for Generalizable Multi-domain Engagement Estimation
 
+![The structure of LDM-AF](./Framework.png)
+
 This is the official implementation of **LDM-AF**, a framework that achieves state-of-the-art (SOTA) results on the **NoXi-Base**, **NoXi-Add**, and **PinSoRo-CR-Task** datasets within the **MultiMediate'26** challenge. It ranks second in terms of average weighted overall performance.
 
 ---
